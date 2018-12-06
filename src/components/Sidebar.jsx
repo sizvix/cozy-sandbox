@@ -16,6 +16,10 @@ export const Sidebar = ({ t }) => (
           <Icon className="c-nav-icon" icon={NavIcon} />
           {t('Nav.intents')}
         </NavLink>
+        <NavLink to="/harvests" className="c-nav-link">
+          <Icon className="c-nav-icon" icon={NavIcon} />
+          {t('Nav.harvests')}
+        </NavLink>
       </NavItem>
     </Nav>
   </UISidebar>
