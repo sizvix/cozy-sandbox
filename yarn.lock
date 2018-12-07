@@ -2671,6 +2671,11 @@ cozy-device-helper@1.4.14:
   dependencies:
     lodash "4.17.11"
 
+cozy-harvest@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/cozy-harvest/-/cozy-harvest-0.2.0.tgz#f24dffef23489012e08c45559af284f277c5b0c9"
+  integrity sha512-iT0zvn1isF7IKfEfI8B+5wVgGkcaJ/IiiVz1XZIvdggb5DLsYkDRfCwTO6cgbRzhraQ7o9gQtBTDUyzZPzpfvg==
+
 cozy-interapp@^0.2.13:
   version "0.2.13"
   resolved "https://registry.yarnpkg.com/cozy-interapp/-/cozy-interapp-0.2.13.tgz#5735b9d769c3cd195daac8f21d7b654859b76f5b"
